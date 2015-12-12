@@ -1,0 +1,18 @@
+{
+  "files": {
+    "ktane_log_file": "C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Keep Talking and Nobody Explodes\\logs",
+    "status_file": "C:\\ktanestatefile.txt",
+    "modules_file": "C:\\ktanestatemodules.txt",
+    "defused_file": "C:\\ktanestatesolved.txt"
+  },
+  "messages": {
+    "success": [
+      "Bomb Defused",
+      "Hooray!"
+    ],
+    "failure": [
+      "Blew up",
+      "Whoops!"
+    ]
+  }
+}
