@@ -16,3 +16,6 @@ Special thanks to Steel Crate Games for making KTANE
 
 
 This project is not affiliated with anyone from Steel Crate Games and I hope they don't get mad at me for doing this.
+
+
+Thanks to [Encorte](http://www.twitch.tv/encorte/) for the inspiration
